@@ -13,7 +13,7 @@ import operator
 import datetime
 
 # File containing domains, one per line
-blogsf = "~/blogs.txt"
+blogsf = "/home/neoranger/git/blogosfera/blogs.txt"
 
 # Alexa Site Overview URL
 url = "http://www.alexa.com/siteinfo/"
