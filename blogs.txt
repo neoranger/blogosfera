@@ -8,13 +8,13 @@ eliotime.com
 elrincondelsoft.blogspot.com
 esbuntu.com
 etccrond.es
-fraterneo.blogspot.com.ar
+fraterneo.blogspot.com
 gabuntu.com
 h4ckseed.wordpress.com
-hackingthesystem4fun.blogspot.com.ar
+hackingthesystem4fun.blogspot.com
 hvivani.com.ar
 ikasten.io
-itfreekzone.blogspot.com.ar
+itfreekzone.blogspot.com
 kdeblog.com
 lamiradadelreplicante.com
 lasombradelhelicoptero.com
@@ -36,5 +36,7 @@ systeminside.net
 thalskarth.com
 ubuntulife.wordpress.com
 victorhckinthefreeworld.wordpress.com
-www.ochobitshacenunbyte.com
-www.ubuntronics.com
+ochobitshacenunbyte.com
+ubuntronics.com
+maratonlinuxero.org
+eduardocollado.com
